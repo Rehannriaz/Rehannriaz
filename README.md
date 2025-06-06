@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Final Year student pursuing computer science at<br>Ghulam Ishaq Khan Institute, I am highly motivated and<br>eager to learn new technologies. I am a quick learner with a<br>strong analytical mindset, allowing me to solve complex<br>problems effectively. I have strong programming skills and I<br>am also a team player with excellent communication and<br>leadership abilities. I am always looking for new opportunities<br>to grow and develop my skills.
+As a Fullstack Developer, I am highly motivated and<br>eager to learn new technologies. I am a quick learner with a<br>strong analytical mindset, allowing me to solve complex<br>problems effectively. I have strong programming skills and I<br>am also a team player with excellent communication and<br>leadership abilities. I am always looking for new opportunities<br>to grow and develop my skills.
 
 
 ## 🌐 Socials:
